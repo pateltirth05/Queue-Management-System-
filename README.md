@@ -2,11 +2,10 @@
 
 A simple and efficient queue management system built with React that helps businesses manage customer flow digitally — no paper, no confusion.
 
+*Note in this project i have not used any Database or Localstorage so kindly take note on it.
 ## 🚀 Live Demo
-> Coming soon / Add your deployed link here
+> Coming soon 
 
-## 📸 Screenshots
-> Add screenshots of your project here
 
 ---
 
@@ -87,14 +86,3 @@ npm run dev
 - **Conditional rendering** — Showing buttons based on status
 
 ---
-
-## 🙋‍♂️ Author
-
-**Your Name**  
-BE CSE Student | React Developer  
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourusername)
-
----
-
-## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
